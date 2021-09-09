@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3fea4a4.chunk.css",
+    "main.js": "/static/js/main.7d022a84.chunk.js",
+    "main.js.map": "/static/js/main.7d022a84.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ca6225e2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ca6225e2.js.map",
+    "static/css/2.cff746f0.chunk.css": "/static/css/2.cff746f0.chunk.css",
+    "static/js/2.9a44a9bd.chunk.js": "/static/js/2.9a44a9bd.chunk.js",
+    "static/js/2.9a44a9bd.chunk.js.map": "/static/js/2.9a44a9bd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.cff746f0.chunk.css.map": "/static/css/2.cff746f0.chunk.css.map",
+    "static/css/main.b3fea4a4.chunk.css.map": "/static/css/main.b3fea4a4.chunk.css.map",
+    "static/js/2.9a44a9bd.chunk.js.LICENSE.txt": "/static/js/2.9a44a9bd.chunk.js.LICENSE.txt",
+    "static/media/LOGO-MIS.5f00330f.png": "/static/media/LOGO-MIS.5f00330f.png",
+    "static/media/LOGO_MIS.9e9fd58b.jpeg": "/static/media/LOGO_MIS.9e9fd58b.jpeg",
+    "static/media/MISlogo.23f3505f.jpg": "/static/media/MISlogo.23f3505f.jpg",
+    "static/media/design2.9cc398a0.jpg": "/static/media/design2.9cc398a0.jpg",
+    "static/media/footer.5a51f657.png": "/static/media/footer.5a51f657.png",
+    "static/media/wall.8ef16e55.jpg": "/static/media/wall.8ef16e55.jpg",
+    "static/media/wall7.3bc2b748.jpg": "/static/media/wall7.3bc2b748.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca6225e2.js",
+    "static/css/2.cff746f0.chunk.css",
+    "static/js/2.9a44a9bd.chunk.js",
+    "static/css/main.b3fea4a4.chunk.css",
+    "static/js/main.7d022a84.chunk.js"
+  ]
+}

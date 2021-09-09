@@ -1,0 +1,76 @@
+@import "./style.css";
+@import "./custom-bootstrap.css";
+@import "./responsive.css";
+
+.primary-btn {
+  border: solid 2px #1E90FF;
+  background-color: #1E90FF;
+  font-size: 14px;
+  font-weight: 600;
+  color: #0d1d27;
+  text-transform: uppercase;
+  padding: 8px;
+  border-radius: 4px;
+}
+.primary-btn:active {
+  border: solid 2px #1E90FF;
+  padding-top: 8px;
+}
+/* .primary-btn:hover {
+  border: solid 2px #0d1d27;
+  background-color: #0d1d27;
+  color: #fff;
+} */
+
+.my-btn {
+  border: solid 5px #1E90FF;
+  background-color: #47e927;
+  font-size: 14px;
+  font-weight: 600;
+  color: #2493d8;
+  text-transform: uppercase;
+  padding: 50px;
+  border-radius: 4px;
+}
+
+.secondary-btn {
+  border: solid 2px #BEFFFF;
+  background-color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  color: #0d1d27;
+  text-transform: uppercase;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+.secondary-btn:hover {
+  border: solid 2px #BEFFFF;
+  background-color: #BEFFFF;
+  color: #fff;
+}
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 640px) {
+  .container {
+    max-width: 576px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+

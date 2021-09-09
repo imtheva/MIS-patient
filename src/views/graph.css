@@ -1,0 +1,17 @@
+body {
+  background: #feffff;
+  /* padding: 2px; */
+}
+
+canvas {
+  border: 1px dotted rgb(248, 102, 4);
+  width: 400px;
+  height: 400px;
+}
+
+.chart-container {
+  position: relative;
+  margin: auto;
+  height: 500;
+  width: 500;
+}
